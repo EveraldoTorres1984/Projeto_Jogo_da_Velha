@@ -1,0 +1,1 @@
+Projeto de um jogo da velha, utilizando lógicas no JavaScript.
